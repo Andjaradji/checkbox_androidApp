@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="caption_text">Who is the BEST Actor of All Time?</string>
+    <string name="opt1_caption">Al Pacino</string>
+    <string name="opt2_caption">Tom Hanks</string>
+    <string name="opt3_caption">Rano Karno</string>
+    <string name="show_button_caption">Show Result</string>
+</resources>
